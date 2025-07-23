@@ -1,6 +1,6 @@
-## SeismoWave: Unveiling Ocean Rhythms
+## Enhancing Ocean Monitoring for Coastal Communities Using AI
 
-This repository contains the code and sample data used in the MSc. Artificial Intelligence dissertation submitted. This project explores the relationship between seismic ground movements and the sea significant wave height.
+This repository contains the code and sample data that corresponds to the paper called "Enhancing Ocean Monitoring for Coastal Communities Using AI" submitted to 'Conservation'. This project explores the relationship between seismic ground movements and the sea significant wave height.
 
 ## Getting Started
 
