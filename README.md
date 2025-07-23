@@ -24,5 +24,3 @@ Due to file size upload limitations, only a sample of the dataset is included in
 
 The dataset for each station, saved under 'Processed Data/15.03.2025 Data/' is complete, and as such, the code training ML models can be executed in full.
 
-To request access to the full dataset, please contact me at erika.spiteri-bailey.18@um.edu.mt.
-
